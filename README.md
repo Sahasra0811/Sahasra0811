@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sankalamaddi Sahasra&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=3rd Year CSE Student | Currently Exploring AI/ML & Deep Learning&descAlignY=55" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Sankalamaddi Sahasra+👋;CSE Undergraduate;3rd Year CSE Student | Currently Exploring AI/ML & Deep Learning" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Sankalamaddi Sahasra+👋;CSE Undergraduate; 3rd Year CSE Student | Currently Exploring AI/ML & Deep Learning" alt="Typing SVG"/>
 </div>
 
 ## ⌨️ About Me
@@ -23,7 +23,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,C,HTML,CSS,Javascript,React,Node.js,Numpy,Pandas,Matplotlib,Scikit-learn,PyTorch&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,react,nodejs,Numpy,Pandas,Matplotlib,Scikit-learn,PyTorch&perline=8" />
 </p>
 
 ## 📈 Activity Graph
