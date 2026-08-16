@@ -12,7 +12,7 @@
 
 Third-year Computer Science Student at Keshav Memorial Engineering College. Passionate about AI, ML, and full-stack development — currently sharpening my DSA fundamentals while building real-world projects that bring these skills together.
 
-- 🔭 Built **ForenzIQ**, an AI-powered digital forensics platform
+- 🔭 Built **ForenzIQ**,an AI-powered digital forensics platform
 - 🌱 Currently exploring **AI/ML & Deep Learning**
 
 ## 🤝 Connect with me
@@ -64,7 +64,13 @@ A simple task management application built with Python that allows users to add,
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
 
-## 🐍 Contribution Snake
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sahasra0811/Sahasra0811/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sahasra0811/Sahasra0811/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sahasra0811/Sahasra0811/output/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sahasra0811/Sahasra0811/output/github-snake.svg" />
+  </picture>
 </p>
